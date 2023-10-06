@@ -14,7 +14,7 @@ I'm a full "apprentice" developer...
 
 ## Acknowledgements
 
-- [josean-dev](https://github.com/josean-dev) [
+- [josean-dev](https://github.com/josean-dev)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 ## Plugins
